@@ -1,0 +1,25 @@
+# Data files (too large for GitHub)
+data/*.nc
+data/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outputs (regenerable)
+outputs/figures/*.png
+outputs/tables/*.csv
