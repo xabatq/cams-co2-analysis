@@ -140,7 +140,6 @@ If you use this code, please cite the manuscript and this repository.
              Global Carbon Budget 2024},
   author  = {Ghamari, Khabat and Omidirad, Reyhan and
              Seyedzahedi, Asrin and Darand, Mohammad},
-  journal = {Atmospheric Chemistry and Physics},
   year    = {2025},
   doi     = {to be assigned}
 }
