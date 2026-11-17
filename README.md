@@ -5,7 +5,7 @@ Reproducibility code for **Ghamari et al. (2025), ACP**.
 > **Ghamari, K., Omidirad, R., Seyedzahedi, A., and Darand, M.** (2025).
 > *Global surface CO₂ fluxes from CAMS (2006–2025): trends, prior–posterior
 > decomposition, and comparison with the Global Carbon Budget 2024.*
-> Atmospheric Chemistry and Physics. DOI: [to be assigned]
+
 
 ---
 
